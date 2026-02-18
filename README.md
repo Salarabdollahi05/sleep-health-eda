@@ -22,3 +22,10 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
+Dataset Source
+The dataset used in this project is publicly available on Kaggle:
+Sleep Health and Lifestyle Dataset
+Source: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+(Note: This dataset is synthetic and created for analytical purposes.)
+The dataset file is not included in this repository. Please download it from the source link above.
